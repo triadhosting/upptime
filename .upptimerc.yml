@@ -6,6 +6,9 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: WEB01
     url: https://triadhosting01.com
+  - name: WEB10
+    url: https://triadhosting10.com
+    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -15,9 +18,9 @@ status-website:
   logoUrl: https://www.triadhosting.com/images/thi-new-logo.png
   name: Triad Hosting Server Status
   favicon: https://triadhosting.com/favicon.ico
-  css: ".logo img { height: 6rem; } #sapper { background-color: white; } [aria-current] { border-bottom-color: #F67021 } "
-  introTitle: Server Status
-  introMessage: 
+  css: ".logo img { height: 6rem !important; } #sapper { background-color: white; } [aria-current] { border-bottom-color: #F67021 } "
+  introMessage: This pages shows the status of the Triad Hosting servers.
+  introTitle: Triad Hosting Server Status
   i18n:
     footer:  For more information, visit our [website](https://www.triadhosting.com)
   navbar:
