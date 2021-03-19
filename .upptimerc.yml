@@ -27,8 +27,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://www.triadhosting.com/images/thi-new-logo.png
-  name: 
-  title: Triad Hosting Server Status
+  name: Triad Hosting Server Status
   favicon: https://triadhosting.com/favicon.ico
   css: ".logo img { height: 6rem; } #sapper { background-color: white; } [aria-current] { border-bottom-color: #F67021 } "
   introTitle: Server Status
