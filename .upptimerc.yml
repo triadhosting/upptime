@@ -6,6 +6,20 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: WEB01
     url: https://triadhosting01.com
+  - name: WEB02
+    url: https://triadhosting02.com
+  - name: WEB03
+    url: https://triadhosting03.com
+  - name: WEB05
+    url: https://triadhosting05.com
+  - name: WEB08
+    url: https://triadhosting08.com
+  - name: WEB09
+    url: https://triadhosting09.com
+  - name: WEB10
+    url: https://triadhosting10.com
+  - name: WEB11
+    url: https://triadhosting11.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -13,11 +27,12 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://www.triadhosting.com/images/thi-new-logo.png
-  name: Servers Status
+  name: 
+  title: Triad Hosting Server Status
   favicon: https://triadhosting.com/favicon.ico
-  css: ".logo { height: 6rem; } #sapper { background-color: white; } [aria-current] { border-bottom-color: #F67021 } "
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  css: ".logo img { height: 6rem; } #sapper { background-color: white; } [aria-current] { border-bottom-color: #F67021 } "
+  introTitle: Server Status
+  introMessage: 
   i18n:
     footer:  For more information, visit our [website](https://www.triadhosting.com)
   navbar:
