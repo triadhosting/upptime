@@ -6,8 +6,20 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: WEB01
     url: https://triadhosting01.com
+  - name: WEB02
+    url: https://triadhosting02.com
+  - name: WEB04
+    url: https://triadhosting04.com
+  - name: WEB05
+    url: https://triadhosting05.com
+  - name: WEB08
+    url: https://triadhosting08.com
+  - name: WEB09
+    url: https://triadhosting09.com
   - name: WEB10
     url: https://triadhosting10.com
+  - name: WEB11
+    url: https://triadhosting11.com
     
 
 status-website:
