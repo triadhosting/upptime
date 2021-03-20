@@ -8,8 +8,8 @@ sites:
     url: https://triadhosting01.com
   - name: WEB02
     url: https://triadhosting02.com
-  - name: WEB04
-    url: https://triadhosting04.com
+  - name: WEB03
+    url: https://triadhosting03.com
   - name: WEB05
     url: https://triadhosting05.com
   - name: WEB08
